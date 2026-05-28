@@ -2,7 +2,7 @@
 
 Describes how to use OoT3D Randomizer on Azahar emulator.
 
-##On Azahar
+## On Azahar
 
 - Launch OoT3D_Randomizer.3dsx. 
 - Navigate the menus to choose the settings for your playthrough, and finish by selecting Generate Randomizer.
